@@ -1,10 +1,11 @@
 # 🤖 Zero Bot
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+New features have been added from the [original](https://github.com/mruniquehacker/Knightbot) project . There are few upgrades and downgrades ,
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=zero-Bot;Multi+Device+Whatsapp+Bot;update+by+Hunter" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=32ffff&center=true&width=910&height=100&lines=zero-Bot;Multi+Device+Whatsapp+Bot;update+by+Hunter" alt="Typing SVG" />
   </a> 
 </div> 
 
@@ -53,7 +54,7 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
 
 ### Step 3: Deploy Now
 
-For further customization and setup guidance, click the button below from the [original]((https://github.com/mruniquehacker/Knightbot)) version:
+For further customization and setup guidance, click the button below from the [original](https://github.com/mruniquehacker/Knightbot) version:
 
 <div align="center">
   <a href="https://youtu.be/-oz_u1iMgf8">
