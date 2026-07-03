@@ -146,8 +146,8 @@ const soraCommand = require('./commands/sora');
 // Global settings
 global.packname = settings.packname;
 global.author = settings.author;
-global.channelLink = "https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A";
-global.ytch = "Mr Unique Hacker";
+global.channelLink = "https://whatsapp.com/channel/0029VbCrHogHrDZXMGH4HB1c";
+global.ytch = "Mr hUnt3r";
 
 // Add this near the top of main.js with other global configurations
 const channelInfo = {
@@ -156,7 +156,7 @@ const channelInfo = {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
             newsletterJid: '120363161513685998@newsletter',
-            newsletterName: 'KnightBot MD',
+            newsletterName: 'zero bot',
             serverMessageId: -1
         }
     }
@@ -197,7 +197,7 @@ async function handleMessages(sock, messageUpdate, printLog) {
 
             if (buttonId === 'channel') {
                 await sock.sendMessage(chatId, {
-                    text: '📢 *Join our Channel:*\nhttps://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A'
+                    text: '📢 *Join our Channel:*\nhttps://whatsapp.com/channel/0029VbCrHogHrDZXMGH4HB1c'
                 }, { quoted: message });
                 return;
             } else if (buttonId === 'owner') {
@@ -206,7 +206,7 @@ async function handleMessages(sock, messageUpdate, printLog) {
                 return;
             } else if (buttonId === 'support') {
                 await sock.sendMessage(chatId, {
-                    text: `🔗 *Support*\n\nhttps://chat.whatsapp.com/GA4WrOFythU6g3BFVubYM7?mode=wwt`
+                    text: `🔗 *Support*\n\nhttps://whatsapp.com/channel/0029VbCrHogHrDZXMGH4HB1c`
                 }, { quoted: message });
                 return;
             }
@@ -230,7 +230,7 @@ async function handleMessages(sock, messageUpdate, printLog) {
 
         // Only log command usage
         if (userMessage.startsWith('.')) {
-            console.log(`📝 Command used in ${isGroup ? 'group' : 'private'}: ${userMessage}`);
+            console.log(`📝 Command used in ${isGroup ? 'group' : 'private'}: ${userMessage} [ Sender-JID [ ${senderId} ] Chat-JID [ ${chatId} ] ]`);
         }
         // Read bot mode once; don't early-return so moderation can still run in private mode
         let isPublic = true;
