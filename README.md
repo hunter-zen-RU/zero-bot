@@ -166,7 +166,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - [Baileys](https://github.com/adiwajshing/Baileys)
 - [TechGod143](https://github.com/TechGod143) for pair code
 - [Dgxeon](https://github.com/Dgxeon) for pair code
-- [hunter zen](https://github.com/hunter-zen-ry) for this custom continously updated version
+- [hunter zen](https://github.com/hunter-zen-ru) for this custom continously updated version
 
 ---
 
