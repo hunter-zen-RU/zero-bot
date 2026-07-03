@@ -30,7 +30,7 @@ New features have been added from the [original](https://github.com/mruniquehack
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
+  <a href="https://github.com/zero-one-community/zz/fork">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
@@ -47,8 +47,9 @@ Deploy the bot and easily connect it to your WhatsApp account by pair code. Clic
   </a>
 </div>
 
+---
 
-### Step 3: After getting creds.json file, upload it to session folder
+### Step 3: After getting creds.json file, upload it to [session](https://github.com/zero-one-community/zz/tree/main/session) folder
 
 ---
 
