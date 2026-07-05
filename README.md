@@ -177,10 +177,10 @@ This project is not affiliated with, authorized by, maintained by, sponsored by,
 ## 💬 Join Our Community
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHx-nhhZmY1">
+  <a href="https://whatsapp.com/channel/0029VbCrHogHrDZXMGH4HB1c">
     <img src="https://img.shields.io/badge/Join_Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
+  <a href="https://whatsapp.com/channel/0029VbCrHogHrDZXMGH4HB1c">
     <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
