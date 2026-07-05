@@ -23,6 +23,12 @@ New features have been added from the [original](https://github.com/mruniquehack
 </div>
 
 ---
+## CONTEXT
+1. [DEPLOY BOT](steps-to-deploy-bot)
+
+---
+
+
 ## 🚀 Steps to Deploy Bot
 
 ### Step 1: Fork the Repository
