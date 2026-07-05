@@ -24,7 +24,7 @@ New features have been added from the [original](https://github.com/mruniquehack
 
 ---
 ## CONTEXT
-1. [DEPLOY BOT](steps-to-deploy-bot)
+1. [DEPLOY BOT](/REEADME.md#-steps-to-deploy-bot)
 
 ---
 
