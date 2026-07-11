@@ -260,14 +260,14 @@ async function handleMessages(sock, messageUpdate, printLog) {
             return;
         }
 
-        /*  // Basic message response in private chat
-          if (!isGroup && (userMessage === 'hi' || userMessage === 'hello' || userMessage === 'bot' || userMessage === 'hlo' || userMessage === 'hey' || userMessage === 'bro')) {
+          // Basic message response in private chat
+          if (!isGroup && (userMessage === 'hi' || userMessage === 'hello' || userMessage === 'bot' || userMessage === 'hlo' || userMessage === 'hey' || userMessage === 'bro' || userMessage === 'yo' || userMessage === 'ola' || userMessage === 'hey' || userMessage === 'h' || userMessage === 'hll')) {
               await sock.sendMessage(chatId, {
-                  text: 'Hi, How can I help you?\nYou can use .menu for more info and commands.',
+                  text: 'Hi, How can I help you?',
                   ...channelInfo
               });
               return;
-          } */
+          } 
 
         if (!message.key.fromMe) incrementMessageCount(chatId, senderId);
 
