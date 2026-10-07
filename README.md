@@ -27,6 +27,7 @@ This repository is a continuously updated custom version of the [original Knight
 ---
 
 ## 📑 Table of Contents
+[0]. [NEWEST ZERO BOT(v4.0.0)](#zero-bot-v399---v400)
 1. [🚀 Deployment Guide](#-deployment-guide)
 2. [🛠️ Local Setup & Installation](#️-local-setup--installation)
 3. [⚙️ Features](#️-features)
@@ -184,3 +185,36 @@ This project is not affiliated with, authorized by, maintained by, sponsored by,
     <img src="https://img.shields.io/badge/Join_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
+--- 
+
+---
+# Zero Bot v3.9.9 - v4.0.0
+
+**Zero Bot** is a modular WhatsApp automation bot maintained by the Zero One Community.  
+This documentation covers available versions, features, installation, updates, and known issues.
+
+> **Current stable version:** `v4.0.0-modular`  
+> **Latest patch:** `v4.1.0-pro` (optional update for v4.0.0-modular)
+
+---
+
+## Quick Links
+
+- [Features by Version](docs/FEATURES.md)
+- [Version Details & Screenshots](docs/VERSIONS.md)
+- [Installation Guide](docs/INSTALL.md)
+- [Updates & Checksums](docs/UPDATES.md)
+- [Known Bugs & Roadmap](docs/BUGS_AND_ROADMAP.md)
+
+---
+
+## Overview
+
+Zero Bot provides:
+
+- Group and chat management commands
+- Optional AI integrations (Gemini, OpenAI)
+- Telegram integration (in select variants)
+- Modular architecture for easy customization and extension
+
+Different builds (Modular, Dragon, Elite, etc.) target different use cases and feature sets. See [Features by Version](docs/FEATURES.md) for a detailed breakdown.
