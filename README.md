@@ -36,6 +36,8 @@ This repository is a continuously updated custom version of the [original Knight
 6. [⚠️ Legal & Disclaimer](#️-legal--disclaimer)
 
 ---
+<img width="198" height="169" alt="Suggestion" src="https://github.com/user-attachments/assets/0c2aebc0-3243-4455-87a1-fb5335dccb9f" />
+<img width="120" height="180" alt="hackerGIF" src="https://github.com/user-attachments/assets/2401f377-af7d-4cc7-a626-e3f3549f37be" />
 
 ## 🚀 Deployment Guide
 
